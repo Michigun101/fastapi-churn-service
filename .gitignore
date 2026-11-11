@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.venv-test/
+models/*.joblib
+models/training_history.json
+models/*.tmp
+.pytest_cache/

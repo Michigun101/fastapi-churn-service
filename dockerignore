@@ -1,0 +1,15 @@
+.git
+.gitignore
+.venv*/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
+models/
+fastapi_churn_day*.py
+!fastapi_churn_day13.py
+README.md
+Dockerfile
+.dockerignore
+requirements-dev.txt
+pytest.ini
